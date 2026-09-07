@@ -13,6 +13,8 @@ Made with ❤️ by [@yutiansut](https://github.com/yutiansut) and [contributors
 </div>
 
 
+[![Powered by OrcaRouter](https://img.shields.io/badge/Powered_by-OrcaRouter-2563eb)](https://www.orcarouter.ai/ref/ref_ce94b4f99fa4cde037ea)
+
 > 🚀 **全新升级**: Python 3.9+、QARS2 Rust核心集成、100x性能提升
 >
 > **最新版本**: v2.1.0-alpha2 | **Python**: 3.9-3.12 | **更新日期**: 2025-10-25
@@ -54,9 +56,11 @@ account.buy("000001", 10.5, "2025-01-15", 1000)
 
 ### 核心项目
 
-- 🦀 [**QARS2**](https://github.com/yutiansut/qars2) - QUANTAXIS Rust核心 (高性能账户、回测引擎)
+- 🦀 [**QARS**](https://github.com/yutiansut/qars) - QUANTAXIS Rust核心 (高性能账户、回测引擎)
 - ⚡ [**QADataSwap**](https://github.com/QUANTAXIS/qadataswap) - 跨语言零拷贝通信 (Python/Rust/C++)
 - 🏛️ [**QAEXCHANGE-RS**](https://github.com/yutiansut/qaexchange-rs) - Rust交易所 + HTAP混合数据库
+
+
 
 ### 扩展实现
 
